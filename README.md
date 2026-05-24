@@ -274,3 +274,32 @@ https://github.com/chetanmurudkar60-lab
 # License
 
 This project is licensed under the MIT License.
+# App Screenshots
+
+## Login Screen
+
+![Login Screen](./screenshots/login.jpeg)
+
+---
+
+## Home Dashboard
+
+![Home Dashboard](./screenshots/home.jpeg)
+
+---
+
+## Add Task Screen
+
+![Add Task Screen](./screenshots/add-task.jpeg)
+
+---
+
+## Task Details Screen
+
+![Task Details Screen](./screenshots/task-details.jpeg)
+
+- Download link: https://expo.dev/artifacts/eas/bvuAd6qMUxqhAXhkgCyfMX.aab
+- Test account: demo@test.com / demo123
+- Deployment: Backend running
+
+

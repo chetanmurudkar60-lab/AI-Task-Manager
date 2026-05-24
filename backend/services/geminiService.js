@@ -1,5 +1,9 @@
 const axios = require("axios");
 
+console.log(
+  "OPENROUTER KEY:",
+  process.env.OPENROUTER_API_KEY
+);
 
 const generateTaskSuggestions =
   async (taskDescription) => {
